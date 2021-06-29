@@ -1,6 +1,6 @@
-source_code_url: https://github.com/redhat-cop/container-pipelines.git
+source_code_url: https://github.com/ryanzhang/container-pipelines.git
 source_code_ref: master
-skip_manual_promotion: false
+skip_manual_promotion: true
 
 openshift_cluster_content:
 - object: projectrequest
